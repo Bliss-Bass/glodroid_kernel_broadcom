@@ -7418,3 +7418,10 @@ CONFIG_ARCH_USE_MEMTEST=y
 #
 # end of Rust hacking
 # end of Kernel hacking
+
+#
+# KernelSU
+#
+CONFIG_KSU=y
+# CONFIG_KSU_DEBUG is not set
+# end of KernelSU
