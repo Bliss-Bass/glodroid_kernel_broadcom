@@ -1,3 +1,4 @@
 [submodule "KernelSU"]
 	path = KernelSU
 	url = https://github.com/tiann/KernelSU
+	tag = v1.0.1
